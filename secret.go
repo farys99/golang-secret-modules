@@ -1,7 +1,7 @@
-package main
+package modules_go
 
 import "fmt"
 
-func main(){
+func secret(){
 	fmt.Println("secret")
 }
